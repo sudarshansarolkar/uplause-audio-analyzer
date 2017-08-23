@@ -12,7 +12,7 @@ server.py
 audio.py
 
 Requirements:
-Python 3.4+ (tested on 3.5.2)
+\Python 3.4+ (tested on 3.5.2)
 PyAudio
 NumPy
 SciPy
@@ -20,7 +20,7 @@ cx_freeze
 Toml
 SimpleWebSocketServer
 requests
-ntp
+ntp\
 
 Quick(ish) & dirty:
 Py 3.5 -> https://www.python.org/downloads/
