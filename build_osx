@@ -1,0 +1,4 @@
+pyinstaller main.py -F
+mv dist/main dist/SoundAnalyzer
+pyinstaller test.py -F
+mv dist/test dist/SoundATester

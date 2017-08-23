@@ -1,0 +1,32 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"start",
+				"cmd",
+				"/k",
+				"python",
+				"-u",
+				"main.py"
+			],
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "UplauseSoundaAnalyser",
+			"selector": "source.python",
+			"shell": true
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"C:/Python35-32/python.exe\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}

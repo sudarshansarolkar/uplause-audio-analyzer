@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"file_doc",
+				"file_document"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0"
+	],
+	"file_history":
+	[
+		"/C/Users/tzaeru/Documents/ANN-Digit-Recognizer/src/network/network.rs",
+		"/C/Users/tzaeru/Documents/ANN-Digit-Recognizer/src/network/neuron.rs",
+		"/C/Users/tzaeru/Documents/ANN-Digit-Recognizer/src/main.rs",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp28795/home/tzaeru/backend2/server-vote/streamr_services.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp02796/home/tzaeru/backend2/server-vote/vote_controllers.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp06963/home/tzaeru/backend2/server-files/files_controllers.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp28666/home/tzaeru/backend2/server-vote/vote-checker.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp19954/home/tzaeru/backend2/server-vote/vote_routes.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp05595/home/tzaeru/backend2/server-vote/vote_models.js",
+		"/C/Users/tzaeru/Documents/rust_digit_recognizer/Cargo.toml",
+		"/C/Users/tzaeru/Documents/rust_digit_recognizer/src/network/network.rs",
+		"/C/Users/tzaeru/Documents/rust_digit_recognizer/src/network/neuron.rs",
+		"/C/Users/tzaeru/Documents/rust_digit_recognizer/src/network/mod.rs",
+		"/C/Users/tzaeru/Documents/rust_digit_recognizer/src/main.rs",
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0/broadcasting.py",
+		"/C/Users/tzaeru/Documents/SADP2PC/SADP2PC-client/Cargo.toml",
+		"/C/Users/tzaeru/Documents/SADP2PC/SADP2PC-server/src/main.rs",
+		"/C/Users/tzaeru/Documents/ues2/ues_updater/src/main.rs",
+		"/C/Users/tzaeru/Documents/SADP2PC/SADP2PC-client/src/main.rs",
+		"/C/Users/tzaeru/Documents/TZs-Unity-Snippets/game-window-dragger-resizer/readme.txt",
+		"/C/Users/tzaeru/Documents/TZs-Unity-Snippets/game-window-dragger-resizer/Window.cs",
+		"/C/Users/tzaeru/AppData/LocalLow/Uplause/UES/missions/missions.json",
+		"/C/Users/tzaeru/Documents/ues2/windows_installer.iss",
+		"/C/Users/tzaeru/Documents/ues2/Build/ues2.exe.manifest",
+		"/C/Users/tzaeru/AppData/LocalLow/Uplause/UES/configs/displays.uesc",
+		"/C/Users/tzaeru/AppData/LocalLow/DefaultCompany/UES/configs/displays.uesc",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp21057/home/tzaeru/backend2/server-files/files_models.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp24272/home/tzaeru/backend2/server-files/files.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp21961/home/tzaeru/backend2/server-files/files_controllers.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp58946/home/tzaeru/backend2/server-vote/vote_models.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp58360/home/tzaeru/backend2/server-vote/vote_controllers.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp24994/home/tzaeru/backend2/server-vote/vote_routes.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp21130/home/tzaeru/backend2/server-files/files_routes.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp28377/home/tzaeru/backend2/server-logging/logging_postgre.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp21930/home/tzaeru/backend2/server-mission/mission_routes.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp21345/home/tzaeru/backend2/server-mission/mission_controllers.js",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp27344/home/tzaeru/backend2/server-logging/logging_controllers.js",
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0/broadcaster_tcp_client.py",
+		"/C/Users/tzaeru/AppData/Local/Temp/scp59120/home/tzaeru/backend2/server-mission/mission_models.js",
+		"/C/Users/tzaeru/AppData/LocalLow/DefaultCompany/UES/configs/test.uesc",
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0/freeze_build.py",
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0/audio.py",
+		"/C/Users/tzaeru/Documents/sound-analyser-2.0/config.py",
+		"/C/Users/tzaeru/Desktop/desktop_switcher.ahk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"state",
+			"upload_template_files_to_s3",
+			"get_stream_data",
+			"get_stream_data_async",
+			"set_state",
+			"get_stream_data",
+			"get_stream_data_async",
+			"upload_template_files_to_s3",
+			"question_text",
+			"create_vote_config_file",
+			"sett",
+			"read",
+			"file_document._id",
+			"upload_template_files_to_s3",
+			"bucket",
+			"file:",
+			"json.",
+			"except"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "UplauseSoundaAnalyser",
+	"project": "uplausesoundanalyser.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

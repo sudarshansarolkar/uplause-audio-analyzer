@@ -1,0 +1,47 @@
+[audio]
+    # Use to force A weighting off even if client wants to use it
+    never_a_weight = true
+
+[broadcasters]
+
+    # Disabled for now
+    [broadcasters.uplause]  
+        auth = ""
+
+    # Same data as sent to broadcasters.uplause
+    [broadcasters.http_echo]
+        ip = "http://127.0.0.1"
+        port = 10080
+
+    # Disabled for now
+    [broadcasters.websocket_client]
+
+    # Disabled for now
+    [broadcasters.websocket_server]
+
+    # TCP server; Streams byte data to connected clients
+    # NOT IMPLEMENTED
+    [broadcasters.tcp_server]
+        ip = "localhost"
+        port = 10082
+        # Whether to send raw decibel values with no grade names (doesn't work in multi-grade environments)
+        single_value_mode = true
+        # Whether to pad the decibel value for fixed length, i.e. 080.52 instead of 80.52
+        fixed_length_mode = true
+        # Delimiter character. Comment out if no delimiter should be used.
+        delimiter = '|'
+        # Character encoding. Note, Python 3 is UTF-8 by default. Alternatives include "ascii".
+        encoding = "utf-8"
+
+    # TCP client; Tries to connect to a server and stream byte data
+    [broadcasters.tcp_client]
+        ip = "localhost"
+        port = 10081
+        # Whether to send raw decibel values with no grade names (doesn't work in multi-grade environments)
+        single_value_mode = true
+        # Whether to pad the decibel value for fixed length, i.e. 080.52 instead of 80.52
+        fixed_length_mode = true
+        # Delimiter character. Comment out if no delimiter should be used.
+        # delimiter = '|'
+        # Character encoding. Note, Python 3 is UTF-8 by default. Alternatives include "ascii".
+        encoding = "ascii"
